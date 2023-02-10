@@ -23,7 +23,6 @@ public abstract class Car {
 		stop();
 		turnOff();
 		fuel();
-		washCar();
+		washCar(); 
 	}
-	
 }
